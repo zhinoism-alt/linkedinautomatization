@@ -53,6 +53,7 @@ At Resideo Technologies I own vendor master data for 1,500+ active suppliers acr
 • Zero audit findings on the SOX controls I own (bank ownership, IBAN/SWIFT/ACH validation, VAT/VIES tax checks, duplicate detection, approval traceability).
 • Replaced an email-based vendor request process with a tracked workflow in SharePoint, Power Apps, and Power Automate, cutting manual tracking effort ~15%.
 • Automated high-volume vendor creations and changes with SAP GUI scripting, Excel VBA, and Winshuttle.
+• Worked alongside PwC on the company spin-off: new legal-entity vendor setup, vendor data separation, and supply-chain-risk vendor blocking.
 
 Before master data, I spent 7 years in finance operations — accounts payable, 3-way match invoice processing, reconciliations, and collections — so I understand how bad data turns into payment blocks, duplicate payments, and audit issues downstream.
 
@@ -77,36 +78,38 @@ Own vendor master data governance for 1,500+ active suppliers across NA, EMEA, a
 • Maintained zero audit findings on owned SOX controls by building evidence packages for bank ownership, IBAN/SWIFT/ACH validation, VAT/VIES and tax registration, duplicate-vendor detection, and approval traceability.
 • Cut manual tracking effort ~15% by designing an HTML vendor-setup dashboard, then leading its migration to SharePoint Lists, Power Apps, and Power Automate — replacing email-based requests with a tracked, auditable workflow.
 • Automated high-volume vendor creation and change requests with SAP GUI scripting, Excel VBA, and Winshuttle, reducing manual keystrokes and data-entry error risk.
-• Contributed to global initiatives: payment-method harmonization, IDoc error reduction, and spin-off migration (new legal-entity setup, supply-chain-risk vendor blocking).
-• Trained and onboarded new analysts (including the ADI Europe team), writing SOPs and decision guides for vendor unblocking — the final checkpoint before funds move.
+• Partnered with PwC on spin-off separation activities: vendor master setup for the new legal entity, vendor data split and validation, and supply-chain-risk vendor blocking.
+• Cross-trained a Customer Master analyst on vendor master processes so the team could cover spin-off workload, and wrote SOPs and decision guides for vendor unblocking — the final checkpoint before funds move.
+• Contributed to global initiatives including payment-method harmonization and IDoc error reduction.
 
 Tools: SAP ECC (MM, FI) · XK01/02/03 · FBL1N · ME23N · Winshuttle · Power Automate · Power Apps · SharePoint · Excel (VBA, Power Query)
 ```
 
-> Si tienes estos números, agrégalos (suben mucho el impacto): volumen de solicitudes al mes `[~X requests/month]`, tiempo de alta de proveedor antes/después `[X → Y días]`, cuántos analistas entrenaste `[N]`, % de reducción de errores IDoc `[X%]`.
+> Mencionar a **PwC** suma mucho: demuestra que trabajaste en un proyecto de separación corporativa con una Big Four, algo que buscan en roles de MDM y data migration.
+> Tu PDF decía "Trained and onboarded new analysts, including ADI Europe". Si también apoyaste al equipo de ADI Europe, agrégalo a la viñeta de cross-training; si no, déjala como está.
 
 ### Alium Mercapro — Administrative Assistant
 June 2020 – August 2022 · Ciudad Juárez, Chihuahua
 
 ```
-• Maintained sales and performance databases in Excel, producing reports used by management for weekly decision-making.
-• Designed and implemented a document filing and records-management system, reducing time to locate documents [~X%].
+• Digitized maintenance tracking by replacing a whiteboard-only process with an Excel VBA tool I designed and built; it became the team's standard system from then on.
+• Maintained sales and performance databases in Excel, producing reports that management used for decision-making.
+• Designed and implemented a document filing and records-management system to improve document organization and retrieval.
 • Documented meeting minutes and action items, tracking follow-through on strategic goals.
-• Managed incoming correspondence and routing, improving response times across the team.
 ```
 
-> Si hacías algo de facturación, compras, cuentas por pagar o captura en un ERP ahí, **dilo**: conecta mejor con tu perfil actual que "mail and correspondence".
+> La herramienta de mantenimiento va **primero**: es tu primer caso de automatización (pizarrón → Excel VBA, adoptado de forma permanente) y conecta directo con lo que haces hoy en Resideo con VBA, SAP scripting y Power Platform. Quitamos "mail and correspondence" porque no aporta.
 
 ### CWT (Carlson Wagonlit Travel) — Accounting Analyst
 November 2018 – August 2020 · Ciudad Juárez, Chihuahua
 
 ```
-• Processed [~X] vendor invoices per [week/month] in [ERP name] using 3-way match (PO, goods receipt, invoice), ensuring payment accuracy.
+• Processed vendor invoices in an Oracle-based ERP using 3-way match (PO, goods receipt, invoice), ensuring payment accuracy.
 • Performed account reconciliations and data cleansing to keep ledger and vendor records accurate.
 • Supported tax information reporting, contributing to on-time compliance filings.
 ```
 
-> Quitamos "Developed strong analytical skills… a leader in the travel industry" (no aporta). Completa el nombre del ERP (¿SAP, Oracle?) y el volumen: son palabras clave que buscan los reclutadores.
+> Quitamos "Developed strong analytical skills… a leader in the travel industry" (no aporta). "Oracle" queda como palabra clave: muchas vacantes de P2P piden SAP **u** Oracle, así que te conviene que aparezcan las dos.
 
 ### Genpact — Collections Agent
 July 2016 – November 2018
@@ -142,7 +145,7 @@ Ordénalas así y **fija las 5 primeras como "Top skills"**:
 5. SAP MM
 
 Después agrega (LinkedIn permite hasta 100):
-SAP FI · SAP ERP · SAP S/4HANA · Accounts Payable · SOX Compliance · Internal Controls · Fraud Prevention · Data Quality · Master Data Management (MDM) · Winshuttle · Power Automate · Microsoft Power Apps · SharePoint · Microsoft Excel · VBA · Power Query · SAP GUI Scripting · IDoc · Process Improvement · Lean Six Sigma · Invoice Processing · Account Reconciliation · Stakeholder Management · Bilingual (English/Spanish)
+SAP FI · SAP ERP · SAP S/4HANA · Oracle ERP · Data Migration · Accounts Payable · SOX Compliance · Internal Controls · Fraud Prevention · Data Quality · Master Data Management (MDM) · Winshuttle · Power Automate · Microsoft Power Apps · SharePoint · Microsoft Excel · VBA · Power Query · SAP GUI Scripting · IDoc · Process Improvement · Lean Six Sigma · Invoice Processing · Account Reconciliation · Stakeholder Management · Bilingual (English/Spanish)
 
 **Quita:** "Certified SAP Consultant" (ver diagnóstico).
 
