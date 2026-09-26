@@ -1,0 +1,122 @@
+{
+  "_nota": "Base para autollenar formularios (Workday, Greenhouse, Lever). Copia este archivo a perfil.local.json (ignorado por git) y ahí llena los valores COMPLETAR con tus datos personales.",
+  "personal": {
+    "firstName": "Brandon",
+    "lastName": "Ramos",
+    "email": "COMPLETAR",
+    "phone": "COMPLETAR",
+    "phoneCountryCode": "+52",
+    "city": "Ciudad Juárez",
+    "state": "Chihuahua",
+    "country": "Mexico",
+    "postalCode": "COMPLETAR",
+    "address": "COMPLETAR",
+    "linkedin": "https://www.linkedin.com/in/blrg",
+    "website": ""
+  },
+  "headline": "SAP Vendor Master Data Specialist | Data Governance · Procure-to-Pay · SAP MM/FI",
+  "experience": [
+    {
+      "company": "Resideo",
+      "title": "SAP Master Data Specialist (Vendor Master & P2P)",
+      "location": "Ciudad Juárez, Mexico",
+      "startDate": "2023-05",
+      "endDate": null,
+      "current": true,
+      "description": "Own vendor master data governance for 1,500+ active suppliers across NA, EMEA, and APAC in SAP ECC (MM/FI). Prevented USD 4M+ in fraudulent payment exposure by detecting bank-account substitution schemes. Zero audit findings on owned SOX controls. Cut manual tracking ~15% by migrating vendor-setup requests to SharePoint, Power Apps, and Power Automate. Automated vendor creations/changes with SAP GUI scripting, Excel VBA, and Winshuttle."
+    },
+    {
+      "company": "Alium Mercapro",
+      "title": "Administrative Assistant",
+      "location": "Ciudad Juárez, Chihuahua",
+      "startDate": "2020-06",
+      "endDate": "2022-08",
+      "current": false,
+      "description": "Maintained sales and performance databases in Excel for management reporting. Implemented a document filing and records-management system. Tracked meeting action items against strategic goals."
+    },
+    {
+      "company": "CWT (Carlson Wagonlit Travel)",
+      "title": "Accounting Analyst",
+      "location": "Ciudad Juárez, Chihuahua",
+      "startDate": "2018-11",
+      "endDate": "2020-08",
+      "current": false,
+      "description": "Processed vendor invoices in ERP using 3-way match. Performed account reconciliations and data cleansing. Supported tax information reporting."
+    },
+    {
+      "company": "Genpact",
+      "title": "Collections Agent",
+      "location": "",
+      "startDate": "2016-07",
+      "endDate": "2018-11",
+      "current": false,
+      "description": "Earned monthly performance bonus six consecutive months by exceeding collections KPIs. Performed QA reviews on peers' calls. Liaison with GSB shared services."
+    }
+  ],
+  "education": [
+    {
+      "school": "Universidad Tecnológica de México (UNITEC)",
+      "degree": "Bachelor of Engineering",
+      "field": "Software and Network Engineering",
+      "startDate": "2024-04",
+      "endDate": "2027-04",
+      "inProgress": true
+    },
+    {
+      "school": "Irvin High School",
+      "degree": "High School Diploma",
+      "field": "",
+      "startDate": "2012-06",
+      "endDate": "2016-08",
+      "inProgress": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent / Full professional"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ],
+  "skills": [
+    "SAP MM",
+    "SAP FI",
+    "Vendor Master Data",
+    "Master Data Management",
+    "Data Governance",
+    "Procure-to-Pay",
+    "Accounts Payable",
+    "SOX Compliance",
+    "Internal Controls",
+    "Fraud Prevention",
+    "Winshuttle",
+    "Power Automate",
+    "Power Apps",
+    "SharePoint",
+    "Excel",
+    "VBA",
+    "Power Query",
+    "SAP GUI Scripting",
+    "Lean Six Sigma"
+  ],
+  "commonAnswers": {
+    "_nota": "Respuestas a preguntas que se repiten en casi todas las aplicaciones. Ajusta a tu situación real.",
+    "authorizedToWorkMexico": "Yes",
+    "authorizedToWorkUS": "COMPLETAR",
+    "requiresSponsorshipUS": "COMPLETAR",
+    "willingToRelocate": "COMPLETAR",
+    "workModePreference": "Remote or Hybrid",
+    "noticePeriod": "2 weeks",
+    "salaryExpectationMXN": "COMPLETAR",
+    "salaryExpectationUSD": "COMPLETAR",
+    "howDidYouHear": "LinkedIn",
+    "previouslyWorkedHere": "No",
+    "over18": "Yes",
+    "gender": "COMPLETAR o 'Prefer not to say'",
+    "veteranStatus": "I am not a protected veteran",
+    "disabilityStatus": "COMPLETAR o 'I do not wish to answer'"
+  }
+}
