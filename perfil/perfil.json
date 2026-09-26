@@ -14,7 +14,7 @@
     "linkedin": "https://www.linkedin.com/in/blrg",
     "website": ""
   },
-  "headline": "SAP Vendor Master Data Specialist | Data Governance · Procure-to-Pay · SAP MM/FI",
+  "headline": "SAP Vendor Master Data Specialist | Data Governance · Procure-to-Pay · SAP MM/FI | Payment Fraud Prevention & SOX Controls | Automation: Power Automate · VBA · SAP GUI Scripting",
   "experience": [
     {
       "company": "Resideo",
@@ -23,7 +23,7 @@
       "startDate": "2023-05",
       "endDate": null,
       "current": true,
-      "description": "Own vendor master data governance for 1,500+ active suppliers across NA, EMEA, and APAC in SAP ECC (MM/FI). Prevented USD 4M+ in fraudulent payment exposure by detecting bank-account substitution schemes. Zero audit findings on owned SOX controls. Cut manual tracking ~15% by migrating vendor-setup requests to SharePoint, Power Apps, and Power Automate. Automated vendor creations/changes with SAP GUI scripting, Excel VBA, and Winshuttle. Partnered with PwC on spin-off separation (new legal-entity vendor setup, vendor data split, supply-chain-risk vendor blocking). Cross-trained a Customer Master analyst on vendor master processes."
+      "description": "Own vendor master data governance for 1,500+ active suppliers across NA, EMEA, and APAC in SAP ECC (MM/FI). Prevented USD 4M+ in fraudulent payment exposure by detecting bank-account substitution schemes. Zero audit findings on owned SOX controls. Cut manual tracking ~15% by migrating vendor-setup requests to SharePoint, Power Apps, and Power Automate. Automated vendor creations/changes with SAP GUI scripting, Excel VBA, and Winshuttle. Partnered with PwC on spin-off separation (new legal-entity vendor setup, vendor data split, supply-chain-risk vendor blocking). Cross-trained a Customer Master analyst on vendor master processes. Supported ADI Europe vendor maintenance requests through the post-spin-off transition and the system audit for the vendor maintenance area."
     },
     {
       "company": "Alium Mercapro",

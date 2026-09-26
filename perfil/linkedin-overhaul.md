@@ -23,7 +23,7 @@ Las notas y explicaciones están en español. Lo que está entre `[corchetes]` n
 
 ## 1. Titular (máx. 220 caracteres) — elige uno
 
-**Opción A — palabras clave primero (la que recomiendo para que te encuentren):**
+**Opción A — palabras clave primero ✅ ELEGIDA:**
 ```
 SAP Vendor Master Data Specialist | Data Governance · Procure-to-Pay · SAP MM/FI | Payment Fraud Prevention & SOX Controls | Automation: Power Automate · VBA · SAP GUI Scripting
 ```
@@ -80,13 +80,14 @@ Own vendor master data governance for 1,500+ active suppliers across NA, EMEA, a
 • Automated high-volume vendor creation and change requests with SAP GUI scripting, Excel VBA, and Winshuttle, reducing manual keystrokes and data-entry error risk.
 • Partnered with PwC on spin-off separation activities: vendor master setup for the new legal entity, vendor data split and validation, and supply-chain-risk vendor blocking.
 • Cross-trained a Customer Master analyst on vendor master processes so the team could cover spin-off workload, and wrote SOPs and decision guides for vendor unblocking — the final checkpoint before funds move.
+• Supported ADI Europe vendor maintenance requests through the post-spin-off transition, and supported the system audit for the vendor maintenance area.
 • Contributed to global initiatives including payment-method harmonization and IDoc error reduction.
 
 Tools: SAP ECC (MM, FI) · XK01/02/03 · FBL1N · ME23N · Winshuttle · Power Automate · Power Apps · SharePoint · Excel (VBA, Power Query)
 ```
 
 > Mencionar a **PwC** suma mucho: demuestra que trabajaste en un proyecto de separación corporativa con una Big Four, algo que buscan en roles de MDM y data migration.
-> Tu PDF decía "Trained and onboarded new analysts, including ADI Europe". Si también apoyaste al equipo de ADI Europe, agrégalo a la viñeta de cross-training; si no, déjala como está.
+> ADI Europe queda como soporte en la transición y en la auditoría de vendor maintenance, no como capacitación: así es exacto y lo puedes defender en una entrevista. Cuando les quiten el acceso (30 sep), la viñeta sigue siendo válida porque habla de la transición.
 
 ### Alium Mercapro — Administrative Assistant
 June 2020 – August 2022 · Ciudad Juárez, Chihuahua
@@ -162,7 +163,7 @@ SAP FI · SAP ERP · SAP S/4HANA · Oracle ERP · Data Migration · Accounts Pay
 ## 7. Ajustes rápidos (15 minutos)
 
 - [ ] **Foto:** fondo liso, luz de frente, hombros hacia arriba, sonriendo.
-- [ ] **Banner:** algo simple con tu especialidad, por ejemplo: *"SAP Vendor Master Data · Data Governance · P2P"* (Canva tiene plantillas de banner de LinkedIn).
+- [ ] **Banner:** usa `perfil/banner/linkedin-banner.png` (1584×396). Para editarlo, cambia `banner.html` y vuelve a generarlo.
 - [ ] **Open to Work → solo reclutadores** (no el marco verde). Cargos: *Master Data Analyst, Master Data Specialist, Data Governance Analyst, Vendor Master Data Analyst, P2P Analyst, SAP MM Analyst*. Ubicación: Remote + Ciudad Juárez + El Paso, TX (si puedes cruzar).
 - [ ] **Idiomas:** English (Full professional / Native or bilingual) y Spanish (Native).
 - [ ] **Sección Destacados:** una captura (sin datos confidenciales) o un documento explicando tu dashboard de Power Apps / flujo de Power Automate. Demuestra más que cualquier viñeta.
